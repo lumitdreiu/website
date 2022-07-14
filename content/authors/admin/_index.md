@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Lucas Keller
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Researcher of Human Behavior'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🕵
 
 # Organizations/Affiliations
 #organizations:
@@ -20,10 +20,10 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Technology and Adaptation of New Technologies
+- Decision-Making, Information Processing, and Risk Taking
+- Information Retrieval
 
 #education:
 #  courses:
