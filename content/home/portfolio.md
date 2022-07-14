@@ -31,9 +31,9 @@ content:
     - name: Research Management
       tag: RM
     - name: Survey Design and Task Programming
-      tag: CV
-    - name: NLP
-      tag: NLP
+      tag: SD
+    - name: Side Projects
+      tag: SP
 
 design:
   columns: '1'

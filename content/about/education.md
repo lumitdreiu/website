@@ -22,26 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+  - title: PhD (Psychology)
+    company: University of Konstanz
+    company_url: 'https://uni.kn/'
+    #company_logo: https://www.uni-konstanz.de/fileadmin/templates/relaunch/img/logo.svg
+    location: Konstanz, Germany
+    date_start: '2013-08-01'
+    date_end: '2017-05-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Dissertation on Moderators of Goal Pursuit
+        * Member of the [DFG](https://www.dfg.de/)-Research Unit [RISKDYNAMICS](https://gepris.dfg.de/gepris/projekt/273711585?language=en)
+        * Visiting Researcher at [New York University](https://www.nyu.edu/)
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+  - title: BSc (Psychology)
+    company: University of Konstanz
+    company_url: 'https://uni.kn/'
+#    company_logo: org-x
+    location: Konstanz, Germany
+    date_start: '2009-10-01'
+    date_end: '2013-07-31'
+    description: |2-
+        * Member of the Student Council
+        * Research assistant in Social Psychology
+        * Teaching assistant in Psychometrics and Statistics
+        * Award for Extraordinary Social Commitment from the Student Council
 
 design:
   columns: '1'

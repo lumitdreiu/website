@@ -12,10 +12,10 @@ role: 'Researcher of Human Behavior'
 status:
   icon: 🕵
 
-# Organizations/Affiliations
+#Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: University of Konstanz
+#  url: "https://www.uni.kn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
