@@ -28,9 +28,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
+    - name: Research Management
+      tag: RM
+    - name: Survey Design and Task Programming
       tag: CV
     - name: NLP
       tag: NLP
