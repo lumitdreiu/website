@@ -25,12 +25,12 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
+    date_start: '2022-07-01'
+    description: 'Focus: Agile Project Management · Project Planning and Coordination · (Written) Communication · Public Speaking · Supervisory Skills'
+    organization: University of Konstanz
+    organization_url: https://www.uni-konstanz.de/
+    title: Leadership, Management, Science Communication and Knowledge Transfer Certificate
+    url: 'https://www.uni-konstanz.de/en/asd/services/certificate-programmes/leadership-certificate/'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
