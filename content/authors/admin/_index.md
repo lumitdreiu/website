@@ -6,7 +6,7 @@ title: Lucas Keller
 superuser: true
 
 # Role/position
-role: 'Researcher of Human Behavior'
+role: 'Quantitative Researcher of Human Behavior'
 
 # Status emoji
 status:
@@ -18,12 +18,12 @@ status:
 #  url: "https://www.uni.kn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include how people make decisions and how and why they act.
 
 interests:
-- Technology and Adaptation of New Technologies
+- Tech and Adaptation of New Technologies
 - Decision-Making, Information Processing, and Risk Taking
-- Information Retrieval
+- Improving User Experiences
 
 education:
   courses:
@@ -41,25 +41,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:lucaskeller13@gmail.com target="_blank"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lucas__keller
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lucas-keller/
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: 'https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=en'
-#  - icon: orcid
-#    icon_pack: ai
-#    link: 'https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=en'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=en'
   - icon: researchgate
     icon_pack: fab
     link: 'https://www.researchgate.net/profile/Lucas-Keller'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/lumitdreiu
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/lumitdreiu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,8 +68,8 @@ social:
 #email: ""
 ---
 
-Lucas Keller is a postdoc researcher at the Social Psychology and Motivation Group at the University of Konstanz. His research interests include X, Y, and Z. He manages the updating risk blabla, sona, and x.
+I am a postdoc quantitative researcher at the Social Psychology and Motivation Group at the University of Konstanz. My research interests include decision-making in uncertain contexts, human motivation, and closing the gap between intention and behavior. I manage the [DFG](https://www.dfg.de/en/index.jsp)-funded project Updating Risk and the [sona subject pool of the University of Konstanz](https://uni-konstanz.sona-systems.com/default.aspx?p_language=EN).
 
-When outside of the office, he likes to X, Y, and Z..
+When outside of the office, I like to video games, sports (mainly 🏈⚽), and writing extensive about me sections.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Here you can {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}download{{< /staticref >}} my resumé as a PDF.
