@@ -34,10 +34,9 @@ experience:
         * Project lead of the DFG-funded research project Updating Risk
         * Supervisions of 50+ Students during their theses or internships
         * Conception and programming of lab and online experiments and surveys; conception, planning, data collection and analyses of 30+ studies with 8000+ participants
-#        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (currently: [Scientific American]() and presentations at scientific conferences
-#        * Organization of an international summer school for PhD students
-
-- title: Visiting Researcher
+        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (currently: [Scientific American]() and presentations at scientific conferences
+        * Organization of an international summer school for PhD students
+  - title: Visiting Researcher
     company: New York University
     company_url: 'https://www.nyu.edu/'
 #    company_logo: org-gc
@@ -45,8 +44,9 @@ experience:
     date_start: '2013-08-01'
     date_end: '2018-12-30'
     description: |2-
-      * Several multi-months research stays
+      * Several multi-month research stays
       * Guest lectures, supervision of student research projects, research administration duties
+
 
   - title: Junior Researcher
     company: University of Konstanz
