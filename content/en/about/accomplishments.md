@@ -31,21 +31,22 @@ item:
     organization_url: https://www.uni-konstanz.de/
     title: Leadership, Management, Science Communication and Knowledge Transfer Certificate
     url: 'https://www.uni-konstanz.de/en/asd/services/certificate-programmes/leadership-certificate/'
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://learndigital.withgoogle.com/DIGITALWORKSHOP-EU/validate-certificate-code
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
+    date_start: '2019-08-01'
+    description: 'Focus: Online Marketing · SEO · SEM · Web Analytics · Business Insights <br>
+    Validation Code: HYVQWP2L8'
+    organization: Google Digital Workshop
+    organization_url: https://learndigital.withgoogle.com/digitalworkshop-eu/
+    title: Fundamentals of Digital Marketing
+    url: https://learndigital.withgoogle.com/digitalworkshop-eu/course/digital-marketing
+  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/37d92b778cd1fb330f977f6b61d18e090a2c57e1?share=true
+    date_end:
+    date_start: '2022-01-01'
+    description: 'Focus: Aggregating and Joining Data · Data Manipulation · Window Functions '
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: 'Intermediate SQL'
     url: ''
 
 design:

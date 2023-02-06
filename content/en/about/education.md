@@ -32,7 +32,7 @@ experience:
     description: |2-
         * Dissertation on Moderators of Goal Pursuit
         * Member of the [DFG](https://www.dfg.de/)-Research Unit [RISKDYNAMICS](https://gepris.dfg.de/gepris/projekt/273711585?language=en)
-        * Visiting Researcher at [New York University](https://www.nyu.edu/)
+#        * Visiting Researcher at [New York University](https://www.nyu.edu/)
 
   - title: BSc (Psychology)
     company: University of Konstanz
@@ -42,7 +42,7 @@ experience:
     date_start: '2009-10-01'
     date_end: '2013-07-31'
     description: |2-
-        * Member of the Student Council
+        * Graduated with distinction, allowing me to pursue a PhD without a master's degree
         * Research assistant in Social Psychology
         * Teaching assistant in Psychometrics and Statistics
         * Award for Extraordinary Social Commitment from the Student Council
