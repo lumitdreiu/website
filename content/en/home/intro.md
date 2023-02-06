@@ -21,4 +21,4 @@ author: admin
 👋 Hi, there! I'm **Lucas**, a researcher trained in psychology interested in human behavior and decision-making. I work on closing the gap between intention and behavior.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [experience and education on my about me page](/about/) or my portfolio below
+Check out my [experience and education](/about/) or my portfolio below
