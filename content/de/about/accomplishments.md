@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Zertifikate'
 subtitle:
 
 # Date format
@@ -23,27 +23,27 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.uni-konstanz.de/en/asd/services/certificate-programmes/leadership-certificate/
+  - certificate_url: https://www.uni-konstanz.de/asd/angebote/zertifikatsprogramme/zertifikat-fuehrung/
     date_end: ''
     date_start: '2022-07-01'
-    description: 'Focus: Agile Project Management · Project Planning and Coordination · (Written) Communication · Public Speaking · Supervisory Skills'
+    description: 'Schwerpunkte: Agiles Projektmanagement · Projekte planen und koordinieren · Wissenschaftskommunikation · Öffentliches Sprechen · Führungsfähigkeiten'
     organization: University of Konstanz
     organization_url: https://www.uni-konstanz.de/
-    title: Leadership, Management, Science Communication and Knowledge Transfer Certificate
-    url: 'https://www.uni-konstanz.de/en/asd/services/certificate-programmes/leadership-certificate/'
+    title: Führung, Management, Wissenschaftskommunikation und -transfer
+    url: 'https://www.uni-konstanz.de/asd/angebote/zertifikatsprogramme/zertifikat-fuehrung/'
   - certificate_url: https://learndigital.withgoogle.com/DIGITALWORKSHOP-EU/validate-certificate-code
     date_end: ''
     date_start: '2019-08-01'
-    description: 'Focus: Online Marketing · SEO · SEM · Web Analytics · Business Insights <br>
-    Validation Code: HYVQWP2L8'
+    description: 'Schwerpunkte: Onlinemarketing · SEO · SEM · Web Analytics · Business Insights <br>
+    Validierungscode: HYVQWP2L8'
     organization: Google Digital Workshop
-    organization_url: https://learndigital.withgoogle.com/digitalworkshop-eu/
-    title: Fundamentals of Digital Marketing
-    url: https://learndigital.withgoogle.com/digitalworkshop-eu/course/digital-marketing
+    organization_url: https://learndigital.withgoogle.com/zukunftswerkstatt/
+    title: Grundlagen des Onlinemarketings
+    url: https://learndigital.withgoogle.com/zukunftswerkstatt/course/digital-marketing
   - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/37d92b778cd1fb330f977f6b61d18e090a2c57e1?share=true
     date_end:
     date_start: '2022-01-01'
-    description: 'Focus: Aggregating and Joining Data · Data Manipulation · Window Functions '
+    description: 'Schwerpunkte: Zusammenfügen und Verbinden von Daten · Datenbearbeitung · Window Funktionen '
     organization: DataCamp
     organization_url: https://www.datacamp.com
     title: 'Intermediate SQL'

@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD (Psychology)
-    company: University of Konstanz
+  - title: Dr. rer. nat. (Psychologie)
+    company: Universität Konstanz
     company_url: 'https://uni.kn/'
     #company_logo: https://www.uni-konstanz.de/fileadmin/templates/relaunch/img/logo.svg
     location: Konstanz, Germany
