@@ -20,19 +20,19 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include how people make decisions and how and why they act.
 
-interests:
-- Tech and Adaptation of New Technologies
-- Decision-Making, Information Processing, and Risk Taking
-- Improving User Experiences
+# interests:
+# - Tech and Adaptation of New Technologies
+# - Decision-Making, Information Processing, and Risk Taking
+# - Improving User Experiences
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: University of Konstanz
-    year: 2017
-  - course: BSc with Distinction in Psychology
-    institution: University of Konstanz
-    year: 2013
+# education:
+#   courses:
+#   - course: PhD in Psychology
+#     institution: University of Konstanz
+#     year: 2017
+#   - course: BSc with Distinction in Psychology
+#     institution: University of Konstanz
+#     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

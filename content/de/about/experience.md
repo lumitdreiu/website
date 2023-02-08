@@ -31,11 +31,12 @@ experience:
     date_end: ''
     description: |2-
         ausgewählte Leistungen:
-        * Projektleitung des von der DFG geförderten Forschungsprojekts 'Updating Risk'
+        * Projektleitung des [DFG](https://www.dfg.de/)-geförderten Forschungsprojekts ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024)
         * Betreuung von 50+ Studierenden während ihrer Abschlussarbeiten oder in Praktika
         * Arbeit an allen Aspekten verbunden mit Labor- und Onlineexperimenten und -umfragen; Konzeption, Planung, Datenerhebung und -analyse von 30+ Studien mit 8000+ Teilnehmenden
-        * Autorenschaft bei 15+ Fachartikeln mit 450+ Zitationen; Vermittlung von Erkenntnissen in 10+ Interviews mit Journalist:innen (aktuellste: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/) und Präsentationen auf wissenschaftlichen Konferenzen
-        * Organisation einer internationalen Sommerschule für Doktorandinnen
+        * Autorenschaft bei [15+ Fachartikeln mit 450+ Zitationen](https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=de); Vermittlung von Erkenntnissen in 10+ Interviews mit Journalist:innen /(aktuellste: [Scientific American, engl.](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) und Präsentationen auf wissenschaftlichen Konferenzen
+        * Organisation einer [internationalen Sommerschule für Promovierende](https://kis-mos.de/)
+        
   - title: Gastforscher (Visiting Researcher)
     company: New York University
     company_url: 'https://www.nyu.edu/'
