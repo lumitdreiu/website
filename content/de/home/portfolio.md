@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Portfolio'
 subtitle: ''
 
 content:
@@ -26,18 +26,18 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Alle Projekte
       tag: '*'
-    - name: Research Management
+    - name: UX-Projekte
+      tag: UX
+    - name: Forschungsverwaltung
       tag: RM
-    - name: Survey Design and Task Programming
-      tag: SD
-    - name: Side Projects
-      tag: SP
+    - name: Ausgewählte Forschung
+      tag: SR
 
 design:
   columns: '1'
-  view: masonry
+  view: showcase
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
