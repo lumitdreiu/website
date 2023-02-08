@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: User Experience
+    - name: User Experience Projects
       tag: UX
-    - name: Survey Design and Task Programming
-      tag: SD
     - name: Research Management
       tag: RM
+    - name: Selected Research
+      tag: SR
 
 design:
   columns: '1'
