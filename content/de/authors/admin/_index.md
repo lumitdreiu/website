@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Lucas Keller
+title: Dr. Lucas Keller
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 'Quantitative Researcher of Human Behavior'
+role: 'Quantitativer Forscher zu menschlichem Verhalten'
 
 # Status emoji
 status:
@@ -18,21 +18,21 @@ status:
 #  url: "https://www.uni.kn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include how people make decisions and how and why they act.
+bio: Meine Forschungsinterressen beinhalten wie Menschen Entscheidungen treffen und wie und warum sie handeln.
 
-interests:
-- Tech and Adaptation of New Technologies
-- Decision-Making, Information Processing, and Risk Taking
-- Improving User Experiences
+Interessen:
+- Tech und Annahme von neuen Technologien
+- Entscheidungsfindung, Informationsverarbeitung und Risikoverhalten
+- Verbesserung und Analyse von User Experiences
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: University of Konstanz
-    year: 2017
-  - course: BSc with Distinction in Psychology
-    institution: University of Konstanz
-    year: 2013
+# education:
+  # courses:
+  # - course: Dr. rer. nat. in Psychologie
+  #   institution: Universität Konstanz
+  #   year: 2017
+  # - course: BSc mit Auszeichnung (Psychologie)
+  #   institution: Universität Konstanz
+  #   year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:lucaskeller13@gmail.com target="_blank"
+    link: mailto:lucaskeller13@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lucas__keller
@@ -68,8 +68,8 @@ social:
 #email: ""
 ---
 
-I am a postdoc quantitative researcher at the Social Psychology and Motivation Group at the University of Konstanz. My research interests include decision-making in uncertain contexts, human motivation, and closing the gap between intention and behavior. I manage the [DFG](https://www.dfg.de/en/index.jsp)-funded project Updating Risk and the [sona subject pool of the University of Konstanz](https://uni-konstanz.sona-systems.com/default.aspx?p_language=EN).
+Ich bin ein quantitativer Forscher in der Arbeitsgruppe Sozialpsychologie und Motivation an der Universität Konstanz. Meine Forschungsinteressen umfassen Entscheidungen in unsicheren Kontexten, menschliche Motivation und das Schließen der Lücke zwischen Absicht und Verhalten. Ich leite das [DFG](https://www.dfg.de/)-geförderte Projekt 'Updating Risk' und die [sona Versuchspersonendatenbank der Universität Konstanz](https://uni-konstanz.sona-systems.com/).
 
-When outside of the office, I like video games, sports (mainly 🏈⚽), and writing extensive about me sections.
+In meiner Freizeit interessiere ich mich für Videospiele, Sport (vor allem 🏈⚽), und das Schreiben von ausufernden "Über mich" Abschnitten.
 
-Here you can {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}download{{< /staticref >}} my resumé as a PDF.
+Hier können Sie meinen Lebenslauf als PDF {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumede.pdf" "newtab" >}}herunterladen{{< /staticref >}}.

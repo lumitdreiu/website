@@ -72,4 +72,4 @@ I am a postdoc quantitative researcher at the Social Psychology and Motivation G
 
 When outside of the office, I like video games, sports (mainly 🏈⚽), and writing extensive about me sections.
 
-Here you can {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}download{{< /staticref >}} my resumé as a PDF.
+Here you can {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumeen.pdf" "newtab" >}}download{{< /staticref >}} my resumé as a PDF.
