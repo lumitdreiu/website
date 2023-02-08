@@ -48,5 +48,5 @@ experience:
         * Award for Extraordinary Social Commitment from the Student Council
 
 design:
-  columns: '1'
+  columns: '2'
 ---

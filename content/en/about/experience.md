@@ -34,7 +34,7 @@ experience:
         * Project lead of the DFG-funded research project Updating Risk
         * Supervisions of 50+ Students during their theses or internships
         * Conception and programming of lab and online experiments and surveys; conception, planning, data collection and analyses of 30+ studies with 8000+ participants
-        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (currently: [Scientific American]() and presentations at scientific conferences
+        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (currently: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) and presentations at scientific conferences
         * Organization of an international summer school for PhD students
   - title: Visiting Researcher
     company: New York University
@@ -62,5 +62,5 @@ experience:
 
 
 design:
-  columns: '1'
+  columns: '2'
 ---
