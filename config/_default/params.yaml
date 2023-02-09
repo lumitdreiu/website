@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Lucas Kellers Personal Website'
+    twitter: 'lucas__keller'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me (Impressum/Imprint: Lucas Keller, Universitätstr. 10, c/o Rm: C509, P/O 39, 78464 Konstanz). This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

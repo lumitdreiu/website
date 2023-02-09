@@ -31,11 +31,14 @@ experience:
     date_end: ''
     description: |2-
         Accomplishments include:
-        * Project lead of the DFG-funded research project Updating Risk
+        * Project lead of the [DFG](https://www.dfg.de/)-funded research project ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024?language=en); Management of more than 350k€ in research funds
         * Supervisions of 50+ Students during their theses or internships
-        * Conception and programming of lab and online experiments and surveys; conception, planning, data collection and analyses of 30+ studies with 8000+ participants
-        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (currently: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) and presentations at scientific conferences
-        * Organization of an international summer school for PhD students
+        * Cooperations with [Viva con Agua](https://www.vivaconagua.org/en/) on handwashing behavior in Uganda, the [Mentor Stiftung](https://mentorstiftung.de/) on an evaluation of their Zukunftsmentoring ('future mentoring'), and a leading German car manufacturer on user experience
+        * Work on all aspects of laboratory and online experiments and surveys; Conception, planning, and data collection and analyses of 30+ Studies with 8000+ participants
+        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (most recent: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) 
+        * Organization of an [international summer school for PhD students](https://kis-mos.de/)
+
+
   - title: Visiting Researcher
     company: New York University
     company_url: 'https://www.nyu.edu/'

@@ -31,10 +31,11 @@ experience:
     date_end: ''
     description: |2-
         ausgewählte Leistungen:
-        * Projektleitung des [DFG](https://www.dfg.de/)-geförderten Forschungsprojekts ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024)
+        * Projektleitung des [DFG](https://www.dfg.de/)-geförderten Forschungsprojekts ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024); Verwaltung von über 350k€ an Forschungsgeldern
         * Betreuung von 50+ Studierenden während ihrer Abschlussarbeiten oder in Praktika
-        * Arbeit an allen Aspekten verbunden mit Labor- und Onlineexperimenten und -umfragen; Konzeption, Planung, Datenerhebung und -analyse von 30+ Studien mit 8000+ Teilnehmenden
-        * Autorenschaft bei [15+ Fachartikeln mit 450+ Zitationen](https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=de); Vermittlung von Erkenntnissen in 10+ Interviews mit Journalist:innen /(aktuellste: [Scientific American, engl.](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) und Präsentationen auf wissenschaftlichen Konferenzen
+        * Kooperationen in Forschungsprojekten mit [Viva con Agua](https://www.vivaconagua.org/) zu Handwaschverhalten in Uganda, einer Evaluation des Zukunftsmentorings der [Mentor Stiftung](https://mentorstiftung.de/) und einem führenden Automobilhersteller zu User Experience
+        * Arbeit an allen Aspekten von Labor- und Onlineexperimenten und -umfragen; Konzeption, Planung, Datenerhebung und -analyse von 30+ Studien mit 8000+ Teilnehmenden
+        * Autorenschaft bei [15+ Fachartikeln mit 450+ Zitationen](https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=de); Vermittlung von Erkenntnissen in 10+ Interviews mit Journalist:innen (aktuellste: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/), [Campuls](https://campuls.online/kunterbuntes/ein-gefuehl-mit-schlechtem-ruf-warum-enttaeuschung-auch-gut-sein-kann/)) und Präsentationen auf wissenschaftlichen Konferenzen
         * Organisation einer [internationalen Sommerschule für Promovierende](https://kis-mos.de/)
         
   - title: Gastforscher (Visiting Researcher)
