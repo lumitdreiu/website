@@ -70,6 +70,4 @@ social:
 
 Ich bin ein quantitativer Forscher in der Arbeitsgruppe Sozialpsychologie und Motivation an der Universität Konstanz. Meine Forschungsinteressen umfassen Entscheidungen in unsicheren Kontexten, menschliche Motivation und das Schließen der Lücke zwischen Absicht und Verhalten. Ich leite das [DFG](https://www.dfg.de/)-geförderte Projekt 'Updating Risk' und die [sona Versuchspersonendatenbank der Universität Konstanz](https://uni-konstanz.sona-systems.com/).
 
-In meiner Freizeit interessiere ich mich für Videospiele, Sport (vor allem 🏈⚽), und das Schreiben von ausufernden "Über mich" Abschnitten.
-
 Hier können Sie meinen Lebenslauf als PDF {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumede.pdf" "newtab" >}}herunterladen{{< /staticref >}}.
