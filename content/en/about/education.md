@@ -42,7 +42,7 @@ experience:
     date_start: '2009-10-01'
     date_end: '2013-07-31'
     description: |2-
-        * Graduated with distinction, allowing me to pursue a PhD without a master's degree
+        * Graduated with distinction, enabling direct entry to a PhD program
         * Research assistant in Social Psychology
         * Teaching assistant in Psychometrics and Statistics
         * Award for Extraordinary Social Commitment from the Student Council

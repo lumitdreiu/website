@@ -32,11 +32,12 @@ experience:
     description: |2-
         Accomplishments include:
         * Project lead of the [DFG](https://www.dfg.de/)-funded research project ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024?language=en); Management of more than 350k€ in research funds
-        * Supervisions of 50+ Students during their theses or internships
+        * Theses and internship supervision of 50+ Students
         * Cooperations with [Viva con Agua](https://www.vivaconagua.org/en/) on handwashing behavior in Uganda, the [Mentor Stiftung](https://mentorstiftung.de/) on an evaluation of their Zukunftsmentoring ('future mentoring'), and a leading German car manufacturer on user experience
-        * Work on all aspects of laboratory and online experiments and surveys; Conception, planning, and data collection and analyses of 30+ Studies with 8000+ participants
-        * Authorship of 15+ professional publications with 450+ citations; communication of findings in 10+ interviews with journals (most recent: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) 
+        * Implementation of laboratory / online experiments and surveys; Conception, planning, data collection and analyses of 30+ Studies with 8000+ participants
+        * [15+ professional publications with 450+ citations](https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=en); communication of findings in 10+ interviews with journals (most recent: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/)) 
         * Organization of an [international summer school for PhD students](https://kis-mos.de/)
+        * Consultant for digital transformation processes for the Department of Psychology
 
 
   - title: Visiting Researcher
@@ -59,8 +60,8 @@ experience:
     date_start: '2013-08-01'
     date_end: '2016-09-30'
     description: |2-
-      * Taught motivation and research methods
-      * Researched risk perception and risk-taking behavior
+      * Teaching courses on motivation, research methods, statistics, and psychometrics
+      * Research on motivation, risk perception, and risk-taking behavior
 
 
 
