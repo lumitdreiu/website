@@ -42,7 +42,7 @@ experience:
     date_start: '2009-10-01'
     date_end: '2013-07-31'
     description: |2-
-        * Abschluss mit Auszeichnung, ermöglichte eine Promotion ohne zusätzlichen Masterabschluss
+        * Abschluss mit Auszeichnung, ermöglicht direkten Einstieg in Promotion
         * Forschungsassistenz in Sozial- und Motivationspsychologie
         * Lehrassistenz in Psychometrie und Statistik
         * Auszeichnung für außergewöhnliches soziales Engagement der Studienfachschaft Psychologie der Universität Konstanz

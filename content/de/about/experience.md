@@ -32,10 +32,10 @@ experience:
     description: |2-
         ausgewählte Leistungen:
         * Projektleitung des [DFG](https://www.dfg.de/)-geförderten Forschungsprojekts ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024); Verwaltung von über 350k€ an Forschungsgeldern
-        * Betreuung von 50+ Studierenden während ihrer Abschlussarbeiten oder in Praktika
+        * Betreuung von Abschlussarbeiten und Praktika von 50+ Studierenden
         * Kooperationen in Forschungsprojekten mit [Viva con Agua](https://www.vivaconagua.org/) zu Handwaschverhalten in Uganda, einer Evaluation des Zukunftsmentorings der [Mentor Stiftung](https://mentorstiftung.de/) und einem führenden Automobilhersteller zu User Experience
-        * Arbeit an allen Aspekten von Labor- und Onlineexperimenten und -umfragen; Konzeption, Planung, Datenerhebung und -analyse von 30+ Studien mit 8000+ Teilnehmenden
-        * Autorenschaft bei [15+ Fachartikeln mit 450+ Zitationen](https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=de); Vermittlung von Erkenntnissen in 10+ Interviews mit Journalist:innen (aktuellste: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/), [Campuls](https://campuls.online/kunterbuntes/ein-gefuehl-mit-schlechtem-ruf-warum-enttaeuschung-auch-gut-sein-kann/)) und Präsentationen auf wissenschaftlichen Konferenzen
+        * Umsetzung von Labor-/Onlineexperimenten und -umfragen; Konzeption, Planung, Datenerhebung und -analyse von 30+ Studien mit 8000+ Teilnehmenden
+        * [15+ Fachartikeln mit 450+ Zitationen](https://scholar.google.com/citations?user=bK_KB-kAAAAJ&hl=de); Vermittlung von Erkenntnissen in 10+ Interviews mit Journalist:innen (aktuellste: [Scientific American](https://www.scientificamerican.com/article/the-best-new-years-resolution-might-be-to-just-let-go-of-an-unfulfilled-life-goal/), [Campuls](https://campuls.online/kunterbuntes/ein-gefuehl-mit-schlechtem-ruf-warum-enttaeuschung-auch-gut-sein-kann/)) und Präsentationen auf wissenschaftlichen Konferenzen
         * Organisation einer [internationalen Sommerschule für Promovierende](https://kis-mos.de/)
         
   - title: Gastforscher (Visiting Researcher)
@@ -58,8 +58,8 @@ experience:
     date_start: '2013-08-01'
     date_end: '2016-09-30'
     description: |2-
-      * Lehre in Motivationspsychologie und Forschungsmethoden
-      * Forschung mit Fokus auf Risikowahrnehmung und -verhalten
+      * Lehre in Motivationspsychologie, Forschungsmethoden, Statistik und Testtheorie
+      * Forschung zu Motivation, Risikowahrnehmung und -verhalten
 
 design:
   columns: '2'
