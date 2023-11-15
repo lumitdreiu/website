@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lead Researcher
+    company: Smoke Free 23 GmbH
+    company_url: 'https://www.smokefree.de'
+    company_logo: 'org-sf'
+    location: ''
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+        Accomplishments include:
+        * Supervision of the DiGA evaluation study with over 1000 planned participants in one of Germany's first fully digital effectiveness studies
+        * Assistance with app development and quality assurance
+        * Qualitative and quantitative UX research
+    
   - title: Senior Researcher
     company: University of Konstanz
     company_url: 'https://www.uni-konstanz.de'

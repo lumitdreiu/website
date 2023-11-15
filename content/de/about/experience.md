@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lead Researcher
+    company: Smoke Free 23 GmbH
+    company_url: 'https://www.smokefree.de'
+    company_logo: 'org-sf'
+    location: ''
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+        ausgewählte Leistungen:
+        * Betreuung der DiGA-Evaluationsstudie mit über 1000 geplanten Teilnehmenden an einer der deutschlandweit ersten voll-digitalen Wirksamkeitsstudien
+        * Mithilfe bei der App-Entwicklung und -Qualitätssicherung
+        * Qualitative und quantitative UX-Forschung
+
   - title: Senior Researcher
     company: Universität Konstanz
     company_url: 'https://www.uni-konstanz.de'
 #    company_logo: org-gc
     location: Konstanz, Deutschland
     date_start: '2016-10-01'
-    date_end: ''
+    date_end: '2023-05-31'
     description: |2-
         ausgewählte Leistungen:
         * Projektleitung des [DFG](https://www.dfg.de/)-geförderten Forschungsprojekts ['Updating Risk'](https://gepris.dfg.de/gepris/projekt/441551024); Verwaltung von über 350k€ an Forschungsgeldern

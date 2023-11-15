@@ -66,8 +66,10 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
+# Here you can {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumeen.pdf" "newtab" >}}download{{< /staticref >}} my resumé as a PDF.
+
 ---
 
-I am a postdoc quantitative researcher at the Social Psychology and Motivation Group at the University of Konstanz. My research interests include decision-making in uncertain contexts, human motivation, and closing the gap between intention and behavior. I manage the [DFG](https://www.dfg.de/en/index.jsp)-funded project Updating Risk and the [sona subject pool of the University of Konstanz](https://uni-konstanz.sona-systems.com/default.aspx?p_language=EN).
+I am the lead researcher at Smoke Free 23 GmbH. I did my graduate training at the Social Psychology and Motivation Group at the University of Konstanz. 
 
- Here you can {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumeen.pdf" "newtab" >}}download{{< /staticref >}} my resumé as a PDF.
+

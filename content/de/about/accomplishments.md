@@ -40,13 +40,13 @@ item:
     organization_url: https://learndigital.withgoogle.com/zukunftswerkstatt/
     title: Grundlagen des Onlinemarketings
     url: https://learndigital.withgoogle.com/zukunftswerkstatt/course/digital-marketing
-  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/37d92b778cd1fb330f977f6b61d18e090a2c57e1?share=true
-    date_end:
-    date_start: '2022-01-01'
-    description: 'Schwerpunkte: Zusammenfügen und Verbinden von Daten · Datenbearbeitung · Window Funktionen '
+  - certificate_url: https://www.datacamp.com/certificate/DAA0010164207024
+    date_end: '2025-04-15'
+    date_start: '2023-04-16'
+    description: 'Schwerpunkte: Datenmanagement in SQL · Datenanalyse in SQL · Theorie der exploratoriven Analyse · Theorie des statistischen Experiments'
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Intermediate SQL'
+    title: 'Data Analyst Associate Certification'
     url: ''
 
 design:

@@ -42,9 +42,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lucaskeller13@gmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/lucas__keller
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lucas-keller/
@@ -66,8 +63,10 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
+#Hier können Sie meinen Lebenslauf als PDF {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumede.pdf" "newtab" >}}herunterladen{{< /staticref >}}.
 ---
 
-Ich bin ein quantitativer Forscher in der Arbeitsgruppe Sozialpsychologie und Motivation an der Universität Konstanz. Meine Forschungsinteressen umfassen Entscheidungen in unsicheren Kontexten, menschliche Motivation und das Schließen der Lücke zwischen Absicht und Verhalten. Ich leite das [DFG](https://www.dfg.de/)-geförderte Projekt 'Updating Risk' und die [sona Versuchspersonendatenbank der Universität Konstanz](https://uni-konstanz.sona-systems.com/).
+Ich bin als leitender Forscher bei Smoke Free 23 GmbH tätig. Meine Promotion habe ich in der Arbeitsgruppe Sozialpsychologie und Motivation an der Universität Konstanz abgeschlossen.
 
-Hier können Sie meinen Lebenslauf als PDF {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumede.pdf" "newtab" >}}herunterladen{{< /staticref >}}.
+
+
